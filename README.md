@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Express.js**
 
-- 👨‍💻 All of my projects are available at [https://fillateo.github.io](https://fillateo.github.io)
+<!-- - 👨‍💻 All of my projects are available at [https://fillateo.github.io](https://fillateo.github.io) -->
 
 - 📫 How to reach me **jaitramadandij@gmail.com**
 
