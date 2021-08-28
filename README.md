@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Test post](https://dev.to/fillateo/test-post-2mpm)
+- [Cara Membuat Output dari Query MongoDB Shell Menjadi Berwarna](https://dev.to/fillateo/cara-membuat-output-dari-query-mongodb-shell-menjadi-berwarna-4igk)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
