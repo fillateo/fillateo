@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [BugHero - Web based application for issue tracking.](https://github.com/fillateo/BugHero)
+<!-- - 🔭 I’m currently working on [BugHero - Web based application for issue tracking.](https://github.com/fillateo/BugHero) -->
 
 - 🌱 I’m currently learning **Java**
 
