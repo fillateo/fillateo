@@ -15,11 +15,6 @@
 
 - 📫 How to reach me **jaitramadandij@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Cara Membuat Output dari Query MongoDB Shell Menjadi Berwarna](https://dev.to/fillateo/cara-membuat-output-dari-query-mongodb-shell-menjadi-berwarna-4igk)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/fillateo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fillateo" height="30" width="40" /></a>
