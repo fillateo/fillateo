@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on [BugHero - Web based application for issue tracking.](https://github.com/fillateo/BugHero) -->
 
-- 🌱 I’m currently learning about **Softwarre Architecture**
+- 🌱 I’m currently learning about **Software Architecture**
 
 <!-- - 👨‍💻 All of my projects are available at [https://fillateo.github.io](https://fillateo.github.io) -->
 
