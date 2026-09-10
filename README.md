@@ -1,26 +1,39 @@
-<h1 align="center">Hi 👋, I'm Jait</h1>
-<h3 align="center">A passionate Back-End developer from Indonesia</h3>
+## Jait Ramadandi Jeke
 
+Founding AI / Backend Engineer. I build production AI systems, distributed
+backends, and the data infrastructure underneath them.
 
+Most of my work is the unglamorous part of "AI product": making agent pipelines
+survive restarts, making scraped data idempotent, making a model's answer
+traceable to the document it came from, and keeping the cloud bill finite.
 
+- **Now** — Founding AI Engineer at [Avvista.ai](https://avvista.ai), building
+  tender intelligence for public procurement. Acquired by [Cato](https://get-cato.com).
+- **Working on** — multi-agent systems, RAG and document extraction pipelines,
+  event-driven backends, infrastructure-as-code.
+- **Stack** — Python · Go · FastAPI · Django · PostgreSQL · Redis · Elasticsearch ·
+  GCP · AWS · Terraform/OpenTofu · Kubernetes
+- **Reach me** — [LinkedIn](https://linkedin.com/in/jait-rj) · jaitramadandij@gmail.com
 
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### Selected work
 
-<!-- - 🔭 I’m currently working on [BugHero - Web based application for issue tracking.](https://github.com/fillateo/BugHero) -->
+**[SupplyMe](https://github.com/fillateo/SupplyMe)** — Autonomous multi-agent
+supplier sourcing. Seven Gemini agents decompose a product into its supply
+chain, find candidate factories, research them against the live web, email what
+they can't find out, and rank the survivors with a deterministic score that
+explains itself line by line.
 
-- 🌱 I’m currently learning about **Software Architecture**
+The design constraint was that sourcing data isn't published, it's disclosed —
+so most of the wall-clock time is spent waiting on a human. Every arrow in the
+pipeline is a persisted event on Pub/Sub, so a Cloud Run restart mid-mission
+loses nothing and a supplier replying three days later resumes the same mission.
+LLM calls decide routing; scoring stays deterministic and auditable. Every fact
+in the final report is clickable back to the source excerpt that produced it.
 
-<!-- - 👨‍💻 All of my projects are available at [https://fillateo.github.io](https://fillateo.github.io) -->
+`FastAPI · Next.js · Vertex AI · Firestore · Pub/Sub · Cloud Tasks · Cloud Run · OpenTofu`
 
-- 📫 How to reach me **jaitramadandij@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/fillateo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fillateo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jait-ramadandi-jeke-43221816a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jait-ramadandi-jeke-43221816a" height="30" width="40" /></a>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fillateo&show_icons=true&locale=en" alt="fillateo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fillateo&" alt="fillateo" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=fillateo&show_icons=true&hide_border=true&locale=en" alt="GitHub stats" />
