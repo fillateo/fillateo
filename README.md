@@ -1,13 +1,13 @@
 ## Jait Ramadandi Jeke
 
-Founding AI / Backend Engineer. I build production AI systems, distributed
-backends, and the data infrastructure underneath them.
+Software engineer. I build production AI systems, distributed backends, and
+the data infrastructure underneath them.
 
 Most of my work is the unglamorous part of "AI product": making agent pipelines
 survive restarts, making scraped data idempotent, making a model's answer
 traceable to the document it came from, and keeping the cloud bill finite.
 
-- **Now** — Founding AI Engineer at [Avvista.ai](https://avvista.ai), building
+- **Now** — Software Engineer at [Avvista.ai](https://avvista.ai), building
   tender intelligence for public procurement. Acquired by [Cato](https://get-cato.com).
 - **Working on** — multi-agent systems, RAG and document extraction pipelines,
   event-driven backends, infrastructure-as-code.
